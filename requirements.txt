@@ -4,7 +4,9 @@ deepface==0.0.79
 mediapipe==0.10.20
 numpy>=1.21.0
 opencv-contrib-python-headless==4.8.0.76
-tensorflow==2.9.1
+tensorflow==2.15.0
+tensorflow-addons
+
 
 
 
