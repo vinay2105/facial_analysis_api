@@ -1,8 +1,7 @@
-uvicorn
-deepface
 fastapi
-mediapipe
-numpy
-opencv_contrib_python
-opencv_python
-opencv_python_headless
+uvicorn[standard]
+deepface==0.0.79
+mediapipe==0.10.0
+numpy>=1.21.0
+opencv-contrib-python-headless==4.8.0.76
+
