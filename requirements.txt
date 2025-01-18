@@ -1,4 +1,4 @@
-unicorn
+uvicorn
 deepface
 fastapi
 mediapipe
