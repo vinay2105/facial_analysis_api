@@ -1,3 +1,4 @@
+unicorn
 deepface==0.0.93
 fastapi==0.115.6
 mediapipe==0.10.20
